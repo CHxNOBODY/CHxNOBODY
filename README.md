@@ -6,7 +6,7 @@ I am a student of Kasetsart University
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [khaopan.nas@gmail.com](mailto:khaopan.nas@gmail.com)
-* 🧠  I'm studying at Kasetsart University
+* 🧠  I'm study at Kasetsart University
 
 ### Skills
 
